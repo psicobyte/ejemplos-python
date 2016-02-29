@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 numero = 7
 texto = "Hola Mundo"
 print 3 == 2

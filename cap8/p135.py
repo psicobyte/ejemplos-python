@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 class Mensaje(object):
     """ Ejemplo de clase New Style (hereda de object)"""
 

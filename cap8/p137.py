@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 class Animal(object):
 
     def __init__(self, nombre, patas):

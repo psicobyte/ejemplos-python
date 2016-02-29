@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 lista = ["silla","mesa","armario","taburete"]
 print "silla" in lista
 # Mostrará "True", porque "silla" está en la lista

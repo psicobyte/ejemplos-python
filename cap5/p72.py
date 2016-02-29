@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 numero1 = 0b1011
 numero2 = 0b101
 print numero1

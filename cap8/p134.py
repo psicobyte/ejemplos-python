@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 class Palabra:
     """Clase para mostrar el método __cmp__"""
 

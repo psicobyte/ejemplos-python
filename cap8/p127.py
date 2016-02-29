@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 class Animal:
     """Clase base para mostrar la herencia"""
 

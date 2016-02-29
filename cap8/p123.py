@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 class Producto:
     """ Ejemplo de clase con la cantidad y el precio de un producto"""
 

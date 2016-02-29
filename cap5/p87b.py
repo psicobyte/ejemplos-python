@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 lista = ["Hola","mundo","palabra"]
 lista2 = list(lista)
 print id(lista)

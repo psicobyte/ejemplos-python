@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 class Viejo_Estilo:
     """ Ejemplo de clase Old Style"""
 

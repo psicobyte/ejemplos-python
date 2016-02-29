@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 cadena = "Hola mundo"
 print cadena[1]
 # Mostrará "o"

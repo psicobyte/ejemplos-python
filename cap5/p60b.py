@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 texto = "Hola Mundo"
 entero = 21
 print type(texto)

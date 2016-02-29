@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 resultado = 3 == 2
 print resultado
 # 3 no es igual a 2, por lo que es falso

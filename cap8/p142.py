@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 mi_lista = ["Pato", "Gallina", "Pollo", "Pato", "Pavo"]
 
 print mi_lista

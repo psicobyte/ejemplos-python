@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 diccionario = {"animal": "gato", "cosa": "piedra", "planta": "lechuga"}
 print diccionario
 # Mostrará {'planta': 'lechuga', 'cosa': 'piedra', 'animal': 'gato'}

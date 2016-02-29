@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 def saluda(nombre, sexo):
     print "Hola " + nombre
     if sexo == "M" or sexo == "m":

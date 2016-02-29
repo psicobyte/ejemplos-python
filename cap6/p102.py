@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 dividendo = "A"
 divisor = 2
 try:

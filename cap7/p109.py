@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 def tabla_multiplicar(nombre, numero = 1):
     print "Tabla de multiplicar del " + str(numero)
     print "Impresa automáticamente por " + nombre

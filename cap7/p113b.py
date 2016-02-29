@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+
 def compara_numeros(n1, n2):
     """
     Recibe como parámetros dos números

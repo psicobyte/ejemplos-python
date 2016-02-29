@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 def genera_lista(num):
     lista = []
     i = 1

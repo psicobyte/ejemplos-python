@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 tupla = ("primero", 2, True, "Otro")
 print tupla[2]
 # Mostrará "True"

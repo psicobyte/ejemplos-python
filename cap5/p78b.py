@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 lista = ["primero", "segundo", "tercero", "cuarto", "quinto", "sexto"]
 lista2 = lista[1:4]
 print lista2

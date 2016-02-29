@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 primero = 3
 while primero <= 7:
     print "Tabla del " + str(primero)

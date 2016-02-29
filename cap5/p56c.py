@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 numero = 12e5
 print numero
 # equivale a 12 X 10^5 = 1200000

@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 variable1 = "Hola"
 variable2 = variable1
 variable3 = "Adiós"
