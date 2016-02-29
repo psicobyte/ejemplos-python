@@ -3,5 +3,7 @@
 
 def saluda():
     return "hola mundo"
+
 hola = saluda()
+
 print hola

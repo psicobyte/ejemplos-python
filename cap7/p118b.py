@@ -1,9 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
 """
 Ejemplo de decorador
 """
+
 def decorador(funcion_entrada):
     def funcion_salida(param):
         if param == "Lidia":

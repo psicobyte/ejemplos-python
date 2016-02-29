@@ -3,5 +3,7 @@
 
 corto = 10
 largo = long(corto)
+
 print type(corto)
+
 print type(largo)

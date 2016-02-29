@@ -5,7 +5,9 @@ saludo = "Hola "
 gallina = "Co"
 saludo += "Mundo"
 gallina *= 4
+
 print saludo
 # Muestra "Hola Mundo"
+
 print gallina
 # Muestra CoCoCoCo

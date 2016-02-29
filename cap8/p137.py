@@ -10,6 +10,7 @@ class Animal(object):
     def muestra(self):
         print "El " + self.nombre + " tiene " + self.patas + "patas."
 
+
 # Esta asignación funciona
 chucho = Animal("perro", 4)
 chucho.muestra()

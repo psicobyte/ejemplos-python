@@ -3,5 +3,7 @@
 
 saludo = "Hola " + "Mundo"
 gallina = 4 * "Co"
+
 print saludo
+
 print gallina

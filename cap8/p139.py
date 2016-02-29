@@ -26,6 +26,7 @@ class Mi_Clase(object):
     def __init__(self, texto):
         self.mi_atributo = texto
 
+
 mi_objeto = Mi_Clase("hola")
 
 texto = mi_objeto.mi_atributo

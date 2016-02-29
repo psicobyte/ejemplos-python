@@ -10,5 +10,6 @@ class Mensaje(object):
     def mostrar(self):
         print self.texto
 
+
 mi_objeto = Mensaje()
 mi_objeto.mostrar()

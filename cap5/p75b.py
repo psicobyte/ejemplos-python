@@ -2,4 +2,5 @@
 # -*- coding: utf-8 -*-
 
 lista = ["primero", "segundo", "tercero", "cuarto"]
+
 print lista
